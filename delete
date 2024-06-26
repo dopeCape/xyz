@@ -1,0 +1,11 @@
+[33mcommit 56af27c77138b1ab0e9b91723e2660f6ad21c102[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: harkirat <harkirat96@gmail.com>
+Date:   Sun Jan 21 04:11:48 2024 +0530
+
+    added fe and dockerfile
+
+[33mcommit f9c47f6824ae0d672e6411b62754ec40b3e63661[m
+Author: harkirat <harkirat96@gmail.com>
+Date:   Sat Jan 20 23:43:22 2024 +0530
+
+    Init

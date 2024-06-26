@@ -1,0 +1,9 @@
+/* App.css */
+.bg-image {
+    background-image: url('./assets/background.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  
