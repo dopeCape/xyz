@@ -1,5 +1,5 @@
 const mongoose = require("mongoose")
-mongoose.connect("")
+mongoose.connect("mongodb+srv://swaraj:Swaraj2004@cluster0.txvw2vk.mongodb.net/PayTm-Clone")
 
 const userSchema = mongoose.Schema({
     username:String,
