@@ -15,7 +15,7 @@ JWT_SECRET = "Swaraj"
 
 # MongoDB connection
 client = MongoClient(
-    'mongodb+srv://swaraj:Swaraj2004@cluster0.txvw2vk.mongodb.net/PayTm-Clone')
+    'mongodb+srv://shreyasshriwas9:xyz@cluster0.8rcaikx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')
 db = client['PayTm-Clone']
 users_collection = db['user']
 accounts_collection = db['account']
